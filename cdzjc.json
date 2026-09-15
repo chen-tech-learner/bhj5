@@ -1,0 +1,20 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+      "name": "拾光线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh8/main/cd9.13.json",
+      "name": "鸡哥线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/my-first-project/main/cdychj1.json",
+      "name": "熊猫线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/my-first-project/main/cdys620.json",
+      "name": "4号线路"
+    }
+  ]
+}
