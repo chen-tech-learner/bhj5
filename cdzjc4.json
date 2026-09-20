@@ -1,0 +1,24 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/xpg2.json",
+      "name": "宝盒线路"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+      "name": "catcr线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/25175/tvyuan/master/tvbox_full.json",
+      "name": "full线路"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zheng197600/tvbox/main/0821.json",
+      "name": "0821线路"
+    },
+    {
+      "url": "https://www.cttv.vip/ys/json/ctys.json",
+      "name": "刺彤线路"
+    }
+  ]
+}
